@@ -1,1 +1,1 @@
-# IMT2200-Ignacio-Osorio
+# Ignacio Andrés Osorio Orellana
