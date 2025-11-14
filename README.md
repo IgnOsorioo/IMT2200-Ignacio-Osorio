@@ -1,2 +1,2 @@
 # Ignacio Andrés Osorio Orellana
-Repositorio dedicado a la entrega de actividades del curso IMT2200.
+Repositorio dedicado al desarrollo de las tareas del curso IMT2200.
